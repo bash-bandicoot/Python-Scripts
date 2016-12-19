@@ -1,5 +1,4 @@
-#!/apps/RH6U4/python/2.7.11_anaconda/bin/python
-# docker script for Dena Leshkowitz by Kirill Kogan June 2016
+#!/usr/bin/python
 import sys
 import os
 import readline
