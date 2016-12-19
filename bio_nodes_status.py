@@ -1,5 +1,5 @@
-#!/apps/RH6U4/python/2.7.11/bin/python
-# Biological services nodes info by Kirill Kogan June 2016
+#!/usr/bin/python
+# LSF cluster nodes info 
 
 import os
 
