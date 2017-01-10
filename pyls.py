@@ -1,4 +1,4 @@
-#!/usr/src/anaconda2/bin/python2.7
+#!/usr/bin/env python
 
 import subprocess
 
