@@ -1,1 +1,1 @@
-General Python script for Unix like OSes
+General Python script for Unix-like OSes
